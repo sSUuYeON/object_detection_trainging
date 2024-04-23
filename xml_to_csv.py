@@ -6,7 +6,7 @@ python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FO
 # Create test data:
 python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
 """
-#modifed by Heo on 2024. 04. 20.
+#뭐임;;;
 
 import os
 import glob
