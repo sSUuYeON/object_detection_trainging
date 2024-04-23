@@ -1,4 +1,4 @@
-''' 왜 안뜸;;;;;'''
+''' 되냐??'''
 
 import os
 import glob
