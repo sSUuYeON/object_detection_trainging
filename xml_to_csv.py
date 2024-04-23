@@ -1,5 +1,4 @@
-''' Modified by Student. Heo on 2024. 04. 18 for our great student 
-in Sookmyung Women's Univeristy'''
+''' 오픈소스 어카묘 ;;;'''
 
 import os
 import glob
