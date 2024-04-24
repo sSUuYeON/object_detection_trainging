@@ -1,4 +1,4 @@
-''' 되냐??'''
+''' 과연 성공가능?'''
 
 import os
 import glob
